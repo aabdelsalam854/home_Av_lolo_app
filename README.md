@@ -20,7 +20,7 @@ Looking for a smart and easy way to track your diet, consumption, and overall he
 
 ### 📸 Screenshots:
 
-![screenshot 1](https://github.com/aabdelsalam854/home_Av_lolo_app/blob/main/1.jpg)  
+![screenshot 1](https://github.com/aabdelsalam854/home_Av_lolo_app/blob/main/1.jpg     width="200")  
 ![screenshot 2](https://github.com/aabdelsalam854/home_Av_lolo_app/blob/main/2.jpg)  
 ![screenshot 3](https://github.com/aabdelsalam854/home_Av_lolo_app/blob/main/3.jpg)  
 ![screenshot 4](https://github.com/aabdelsalam854/home_Av_lolo_app/blob/main/4.jpg)  
