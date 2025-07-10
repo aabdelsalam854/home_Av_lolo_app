@@ -30,12 +30,6 @@ Looking for a smart and easy way to track your diet, consumption, and overall he
   <img src="https://github.com/aabdelsalam854/home_Av_lolo_app/blob/main/8.jpg" width="200"/>
   <img src="https://github.com/aabdelsalam854/home_Av_lolo_app/blob/main/9.jpg" width="200"/>
   <img src="https://github.com/aabdelsalam854/home_Av_lolo_app/blob/main/10.jpg" width="200"/>
-</p>
-
-<details>
-<summary>📂 Show more screenshots (11–50)</summary>
-
-<p align="center">
   <img src="https://github.com/aabdelsalam854/home_Av_lolo_app/blob/main/11.jpg" width="200"/>
   <img src="https://github.com/aabdelsalam854/home_Av_lolo_app/blob/main/12.jpg" width="200"/>
   <img src="https://github.com/aabdelsalam854/home_Av_lolo_app/blob/main/13.jpg" width="200"/>
@@ -78,7 +72,6 @@ Looking for a smart and easy way to track your diet, consumption, and overall he
   <img src="https://github.com/aabdelsalam854/home_Av_lolo_app/blob/main/50.jpg" width="200"/>
 </p>
 
-</details>
 
 
 ---
